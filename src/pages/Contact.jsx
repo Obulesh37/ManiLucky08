@@ -12,7 +12,7 @@ function Contact(){
                         <b className="name-m"><a href="mailto:manilucky25896@gmail.com">manilucky25896@gmail.com</a></b>
                     </p>
                     <div className="social-media">
-                       <a href="https://wa.me/8008673383" target="_blank" rel="noopener noreferrer"> <i className="fa-brands fa-whatsapp"></i></a>
+                       <a href="https://wa.me/+918008673383" target="_blank" rel="noopener noreferrer"> <i className="fa-brands fa-whatsapp"></i></a>
                        <a href="https://www.instagram.com/yours_manilucky?utm_source=qr&igsh=bjZmcWhrMmdkcmhm" target="_blank" rel="noopener noreferrer"> <i className="fa-brands fa-instagram"></i></a>
                        <a href="https://www.linkedin.com/in/mani-varma-4a54b7327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer"> <i className="fa-brands fa-linkedin"></i></a>
                     </div>
