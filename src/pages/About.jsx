@@ -43,7 +43,7 @@ function About(){
                     </table>
                     <div className="buttons-about">
                         <button className="cta-button">Hire Me</button>
-                        <button className="download"><a href="/files/mani.png" download="Mani.png">Download CV</a></button>
+                        <button className="download"><a href="src\resume\Manivarma.pdf" download="src\resume\Manivarma.pdf">Download CV</a></button>
                     </div>
                 </div>
                 <br />
