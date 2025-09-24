@@ -46,7 +46,7 @@ function About(){
                     <div className="buttons-about">
                         <button className="cta-button">Hire Me</button>
                         <button className="download">
-                            <a href="/images/Mani.png" download="/images/Mani.png">Download CV</a>
+                            <a href="/resume/Manivarma.pdf" download="/resume/Manivarma.pdf">Download CV</a>
                         </button>
                     </div>
                 </div>
@@ -59,3 +59,4 @@ function About(){
     </div>;
 }
 export default About;
+
