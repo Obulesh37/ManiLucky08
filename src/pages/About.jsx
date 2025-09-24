@@ -43,8 +43,9 @@ function About(){
                     </table>
                     <div className="buttons-about">
                         <button className="cta-button">Hire Me</button>
-                        <button className="download"><a href="src\resume\Manivarma.pdf" download="resume\Manivarma.pdf">Download CV</a></button>
-                    </div>
+                        <button className="download">
+                            <a href="src\resume\Manivarma.pdf" download="src\resume\Manivarma.pdf">Download CV</a>
+                        </button>    </div>
                 </div>
                 <br />
                 <p>
@@ -55,4 +56,5 @@ function About(){
     </div>;
 }
 export default About;
+
 
